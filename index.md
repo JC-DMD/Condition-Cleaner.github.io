@@ -44,7 +44,7 @@ Bookmarks for Planners
 
 ## Infill-Related Webpages
 
-### [Infill Webpage](https://www.kcmo.gov/city-hall/departments/city-planning-development/development-management/infill-lot-and-building-standards)[Uploading City Hall Floor Guide.pdf…]()
+### [Infill Webpage](https://www.kcmo.gov/city-hall/departments/city-planning-development/development-management/infill-lot-and-building-standards)
 
 >The site hosting general Infill information
 
