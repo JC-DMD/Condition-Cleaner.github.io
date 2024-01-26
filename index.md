@@ -9,7 +9,7 @@ Bookmarks for Planners
 ### [Municode Library](https://library.municode.com/mo/kansas_city/codes/zoning_and_development_code)
 >Municode is where our Zoning and Development Code is hosted. 
 
-### [EPL/EnerGov Bookmarks](https://gis.kcmogis.kc.lan/EnerGov/)
+### [EPL/EnerGov Bookmarks](https://gis/energov/)
 >This page is only accessible via our network and acts as a directory to various EnerGov pages. There are also helpful reports available near the bottom of the page.
 
 ### [Service Desk](https://servicedesk.kcmo.org/welcome.portal)
