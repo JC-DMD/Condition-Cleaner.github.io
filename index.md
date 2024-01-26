@@ -52,4 +52,7 @@ Bookmarks for Planners
 >A map of the Infill parcels/areas of the city.
 
 ### [Staff Infill Calculator](https://docs.google.com/spreadsheets/d/1vY6DYYakb9fJxs3BM7O3PJtWNYui6C3HRjLTpbO3RoY/copy#gid=0)
->The Infill Calculator. This allows staff to make infill calculations on the fly. When you open the folder you are prompted to create a new sheet (so the original remains untouched). 
+>The Infill Calculator. This allows staff to make infill calculations on the fly. When you open the folder you are prompted to create a new sheet (so the original remains untouched).
+
+##[Network Shortcuts](file://///kcmogis/cd)
+DevMgmg is in 'citydev_h', and the CaseFiles are in 'CDKIVA'
